@@ -24,3 +24,5 @@ quiero poder realizar operaciones matemáticas más complejas como potencias y r
 para ampliar el uso de la calculadora a contextos científicos o educativos.
 
 URL openAI: https://chatgpt.com/share/684a18ba-4a90-8009-b0d6-a94c64d041d6
+CHAT DE LA ISSUE DE VICENTE YBALO= https://chatgpt.com/share/684a1780-0a98-8003-a813-3a867b5e661e
+CHAT DE LA ISSUE DE FACUNDO CASTILLO= https://chatgpt.com/share/684a16c9-39b4-8009-b1eb-8849fb5a2996
