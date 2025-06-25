@@ -24,29 +24,6 @@ def calculadora():
             print("¡Hasta luego!")
             break
 
-        elif opcion == "1":
-            a = float(input("Primer número: "))
-            b = float(input("Segundo número: "))
-            print(f"Resultado: {a + b}")
-
-        elif opcion == "2":
-            a = float(input("Primer número: "))
-            b = float(input("Segundo número: "))
-            print(f"Resultado: {a - b}")
-
-        elif opcion == "3":
-            a = float(input("Primer número: "))
-            b = float(input("Segundo número: "))
-            print(f"Resultado: {a * b}")
-
-        elif opcion == "4":
-            a = float(input("Dividendo: "))
-            b = float(input("Divisor: "))
-            if b != 0:
-                print(f"Resultado: {a / b}")
-            else:
-                print("Error: División por cero")
-
         elif opcion == "5":
             base = float(input("Base: "))
             exponente = float(input("Exponente: "))
