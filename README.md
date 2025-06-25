@@ -1,4 +1,4 @@
-1. Historia de usuario básica: operaciones estándar
+1. Historia de usuario: operaciones estándar
 Como usuario principiante,
 quiero realizar operaciones básicas (suma, resta, multiplicación y división),
 para poder hacer cálculos matemáticos simples desde la terminal.
